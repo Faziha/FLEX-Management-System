@@ -1,0 +1,55 @@
+course_id,course_code,course_name,credit_hours
+1,CS-101,Introduction to Computer Science,3
+2,CS-201,Data Structures and Algorithms,4
+3,CS-301,Operating Systems,3
+4,CS-401,Computer Architecture,3
+5,CS-501,Artificial Intelligence,3
+6,CS-601,Machine Learning,3
+7,CS-701,Advanced Algorithms,3
+8,CS-801,Computer Networks,3
+9,EE-101,Basic Electronics,4
+10,EE-201,Digital Logic Design,3
+11,EE-301,Power Electronics,3
+12,EE-401,Control Systems,3
+13,EE-501,Signal Processing,3
+14,EE-601,Communication Systems,3
+15,EE-701,Microelectronics,3
+16,ME-101,Mechanics of Solids,4
+17,ME-201,Thermodynamics,3
+18,ME-301,Dynamics,3
+19,ME-401,Mechanics of Machines,3
+20,ME-501,Finite Element Analysis,3
+21,ME-601,Robotics and Automation,3
+22,ME-701,Advanced Materials,3
+23,PHY-101,Classical Mechanics,4
+24,PHY-201,Electromagnetism,4
+25,PHY-301,Quantum Mechanics,4
+26,PHY-401,Statistical Mechanics,4
+27,PHY-501,Condensed Matter Physics,4
+28,PHY-601,Astrophysics,4
+29,PHY-701,Particle Physics,4
+30,MATH-101,Calculus I,4
+31,MATH-201,Calculus II,4
+32,MATH-301,Linear Algebra,3
+33,MATH-401,Differential Equations,3
+34,MATH-501,Real Analysis,3
+35,MATH-601,Complex Analysis,3
+36,MATH-701,Topology,3
+37,CHEM-101,General Chemistry,4
+38,CHEM-201,Organic Chemistry,4
+39,CHEM-301,Analytical Chemistry,4
+40,CS-301,Software Engineering,3
+41,CS-302,Software Project Management,3
+42,CS-303,Software Quality Assurance,3
+43,CS-304,Requirements Engineering,3
+44,CS-305,Object Oriented Analysis and Design,3
+45,CS-306,Human Computer Interaction,3
+46,CS-307,Artificial Intelligence,3
+47,CS-308,Machine Learning,3
+48,CS-309,Data Science,3
+49,CS-310,Big Data Analytics,3
+50,CS-311,Cloud Computing,3
+51,CS-312,Web Development,3
+52,CS-313,Mobile Application Development,3
+53,CS-314,Embedded Systems,3
+54,CS-315,Computer Graphics and Visualization,3
